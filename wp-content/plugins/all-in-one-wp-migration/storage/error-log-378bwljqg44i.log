@@ -1,0 +1,15 @@
+Oct 16 2024 14:23:16
+{"Number":2,"Message":"rmdir(D:\\xamp\\htdocs\\assignment\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\378bwljqg44i): Directory not empty","File":"D:\\xamp\\htdocs\\assignment\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Oct 16 2024 14:23:18
+{"Number":2,"Message":"unlink(D:\\xamp\\htdocs\\assignment\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\378bwljqg44i\\localhost-assignment-20241016-141843-t61ssc8w4d7s.wpress): Permission denied","File":"D:\\xamp\\htdocs\\assignment\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":66}
+
+Oct 16 2024 14:23:18
+{"Number":2,"Message":"unlink(D:\\xamp\\htdocs\\assignment\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\378bwljqg44i\\plugins.list): Permission denied","File":"D:\\xamp\\htdocs\\assignment\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":66}
+
+Oct 16 2024 14:23:18
+{"Number":2,"Message":"rmdir(D:\\xamp\\htdocs\\assignment\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\378bwljqg44i): Directory not empty","File":"D:\\xamp\\htdocs\\assignment\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Oct 16 2024 14:23:26
+{"Number":2,"Message":"filesize(): stat failed for D:\\xamp\\htdocs\\assignment\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\378bwljqg44i\\localhost-assignment-20241016-141843-t61ssc8w4d7s.wpress","File":"D:\\xamp\\htdocs\\assignment\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-archiver.php","Line":231}
+
